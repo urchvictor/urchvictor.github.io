@@ -1,0 +1,70 @@
+*{
+    margin: 7px;
+}
+
+img{
+    height: 120px;
+    width: 99%;
+    margin-bottom: 40px;
+}
+
+body{
+    border: 2px solid red;
+}
+
+h1{
+    font-family: helvetca;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
+#brushes{
+    font-family: helvetca;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#hacksaw{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#price{
+    font-family: helvetca;
+    color: blue;
+    font-weight: bold;
+}
+
+#frames{
+    height: 200px;
+    width: 200px;
+}
+
+#frame{
+    font-family: helvetca;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#finish{
+    height: 200px;
+    width: 200px;
+}
+
+#paint{
+    font-family: helvetca;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+}
